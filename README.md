@@ -16,6 +16,8 @@ This is a simple we project
 
 ## How to Contribute
 
+please fok this repository and then issue Pull Request for review
+
 ### Copyright
 
 2021 Git.Training.
